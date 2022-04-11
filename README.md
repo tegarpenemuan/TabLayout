@@ -1,2 +1,2 @@
 ## Demo
-<img src="Demo/demo.gif" width="340" height="740"/>
+<img src="demo/demo.gif" width="340" height="740"/>
